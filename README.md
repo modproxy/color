@@ -173,6 +173,10 @@ c.Println("This prints again cyan...")
 * Save/Return previous values
 * Evaluate fmt.Formatter interface
 
+## Note
+
+* Support Go module from `v1.8.0`
+* Now, `Gopkg.lock`, `Gopkg.toml` and `vender/` are outdated
 
 ## Credits
 
